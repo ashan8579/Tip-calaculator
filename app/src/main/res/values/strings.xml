@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Tip calaculator</string>
+    <string name="Base">Base</string>
+    <string name="Percentage">25%</string>
+    <string name="Tip">Tip</string>
+    <string name="Total">Total</string>
+    <string name="sb">sb</string>
+</resources>
