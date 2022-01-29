@@ -58,7 +58,7 @@ calculate();
 
             @Override
             public void afterTextChanged(Editable editable) {
-calculate();
+            calculate();
             }
         });
 
